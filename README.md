@@ -7,3 +7,5 @@ This is a repo containing cheatsheets of courses in NTU MFE programme
   - 2024-09-08: uploaded
 - [FN6802 Probability and Statistics](FN6802-Probability-CheatSheet.pdf):
   - 2024-09-11: uploaded
+- [FN6803 APT](FN6803-Asset Pricing Theory-CheatSheet.pdf):
+  - 2024-09-13: uploaded
