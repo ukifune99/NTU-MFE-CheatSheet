@@ -12,6 +12,5 @@ This is a repo containing cheatsheets of courses in NTU MFE programme
 
 # Mini Term 2
 
-[FN6809 Linear Regression](FN6809-Linear Regression-CheatSheet.pdf):
-
-- 2024-10-29: uploaded
+- [FN6809 Linear Regression](FN6809-Linear Regression-CheatSheet.pdf):
+  - 2024-10-29: uploaded
