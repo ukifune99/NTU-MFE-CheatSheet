@@ -9,3 +9,9 @@ This is a repo containing cheatsheets of courses in NTU MFE programme
   - 2024-09-11: uploaded
 - [FN6803 Asset Pricing Theory](FN6803-APT-CheatSheet.pdf):
   - 2024-09-13: uploaded
+
+# Mini Term 2
+
+[FN6809 Linear Regression](FN6809-Linear Regression-CheatSheet.pdf):
+
+- 2024-10-29: uploaded
